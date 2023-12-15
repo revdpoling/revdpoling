@@ -2,6 +2,7 @@
 - 👀 I’m interested in keeping the average computer user safe from online preditors.
 - 🌱 I’m currently attending Google Cybersecurity Professional Certificate course.
 - 💞️ I’m looking to collaborate on projects to educate the public of the dangers of the internet.
+- ✨ Currently I am championing How to Keep yourself Safe Online. A campain to teach the average user how they can keep themselves and their electronic devices safe.
 - 📫 How to reach me: revdpoling@gmail.com or my personal cellphone 937-906-9999
 
 <!---
